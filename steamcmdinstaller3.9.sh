@@ -175,7 +175,7 @@ else
    fi
   fi
  fi
- fi
+
 echo ------- Do you wish to install a game now ? [y or n] -------
 read -r bool
    
